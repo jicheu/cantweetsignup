@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="Sign Up Can Tweet"
+  directory_title="signup"
+  description="iframe"
+  author="Can Tweet" author_email="contact@cantweet.com"
+  author_link="http://www.cantweet.com"
+  scrolling="false"
+  category="cantweet"> 
+  </ModulePrefs>
+<Content type="url"  href="http://signcantweet.appspot.com"/>
+</Module>
